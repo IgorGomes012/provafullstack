@@ -24,7 +24,7 @@ function Registration() {
           <input type="tel" id="password" name="password"/>
         </label>
 
-        <input type="submit" value="Cadastrar" id="button"/>
+        <input className='button' type="submit" value="Cadastrar" id="button"/>
       </form>
     </div>
   );

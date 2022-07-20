@@ -1,0 +1,21 @@
+th{
+    color: #012d51;
+}
+
+tr{
+    font-family: 'Roboto-Regular_0';
+}
+
+td{
+    font-family: 'HelveticaUltraLt_0';
+    color: #808080;
+}
+
+td:first-of-type{
+    font-family: 'Roboto-Regular_0';
+    color: #012d51;
+}
+
+.ListRegistration{
+    color:#29abe2;
+}

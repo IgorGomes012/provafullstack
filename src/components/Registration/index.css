@@ -1,0 +1,14 @@
+.Registration{
+    background-color: #29abe2;
+}
+
+span,input{
+    font-family: 'Roboto-regular_0';
+    color: white;
+    background-color: #29abe2;
+}
+
+.button{
+    color:  #29abe2;
+    background-color: #012d51;
+}

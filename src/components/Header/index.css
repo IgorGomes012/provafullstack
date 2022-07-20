@@ -1,0 +1,22 @@
+.Header{
+    background-image: url('../../img/index-image.jpg');
+}
+
+h1{
+     font-family: 'HelveticaUltraLt_0'; 
+     color: rgb(249, 245, 245);
+}
+
+h2{
+    font-family: 'HelveticaUltraLt_0'; 
+    color: rgb(249, 245, 245);
+}
+a{
+    color: rgb(249, 245, 245);
+}
+
+.logo{
+    background-image: url('logo.svg');
+    background-repeat: no-repeat;
+}
+

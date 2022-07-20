@@ -1,8 +1,10 @@
+import "./index.css"
+
 function Header() {
   return (
     <header className="Header">
         <div>
-            <img></img>
+            <div className="logo"><img/></div>
             <p><a href="">cadastro</a> - <a href="">lista</a> -<a href=""> sobre mim</a></p>
         </div>
 

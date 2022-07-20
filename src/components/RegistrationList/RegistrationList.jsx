@@ -3,7 +3,7 @@ import './index.css'
 function RegistrationList() {
     return (
         <div className="RegistrationList">
-            <h2>LISTA DE CADASTRO</h2>
+            <h2 className='ListRegistration'>LISTA DE CADASTRO</h2>
             <div>
                 <table>
                     <thead>
